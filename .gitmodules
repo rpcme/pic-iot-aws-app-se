@@ -1,0 +1,3 @@
+[submodule "PICIoT.X/mcc_generated_files"]
+	path = PICIoT.X/mcc_generated_files
+	url = https://github.com/rpcme/pic-iot-aws-mcc
