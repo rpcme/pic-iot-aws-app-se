@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+PICIoT.X/dist
+PICIoT.X/nbproject/private/
+
